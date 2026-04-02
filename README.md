@@ -48,3 +48,21 @@ The goal of this project is to:
 
 ## 🔗 Live Dashboard
 👉 [View Looker Studio Dashboard](https://lookerstudio.google.com/s/tiDtkciGjkY)
+
+---
+
+## 💡 Key Learnings
+- Data cleaning and transformation techniques  
+- Building interactive dashboards in Looker Studio  
+- KPI design and business storytelling  
+- Visualizing multi-dimensional retail data  
+
+---
+
+## 📬 Connect with Me
+- LinkedIn: (Add your link)
+- GitHub: (Add your profile link)
+
+---
+
+⭐ If you like this project, don’t forget to star the repo!
