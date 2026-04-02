@@ -60,8 +60,8 @@ The goal of this project is to:
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: (Add your link)
-- GitHub: (Add your profile link)
+- LinkedIn: (www.linkedin.com/in/perarivalan38)
+- GitHub: (https://github.com/perarivalan38)
 
 ---
 
