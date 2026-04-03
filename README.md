@@ -18,16 +18,16 @@ The goal of this project is to:
 ---
 
 ## 🛠️ Tools & Technologies
-Data Analysis – Interpreting sales trends, outlet performance, and item distribution
-Data Cleaning – Handling inconsistencies, missing values, and formatting issues
-Data Visualization – Designing interactive dashboards using charts and KPI cards
-Business Intelligence – Translating data into actionable business insights
-Dashboard Design – Creating user-friendly and visually appealing layouts
-KPI Development – Identifying and tracking key performance indicators
-Data Storytelling – Presenting insights in a clear and meaningful way
-Google Looker Studio – Building dynamic and filter-based dashboards
-Excel / CSV Handling – Data preparation and transformation
-Analytical Thinking – Deriving insights from multiple data dimensions  
+- Data Analysis – Interpreting sales trends, outlet performance, and item distribution
+- Data Cleaning – Handling inconsistencies, missing values, and formatting issues
+- Data Visualization – Designing interactive dashboards using charts and KPI cards
+- Business Intelligence – Translating data into actionable business insights
+- Dashboard Design – Creating user-friendly and visually appealing layouts
+- KPI Development – Identifying and tracking key performance indicators
+- Data Storytelling – Presenting insights in a clear and meaningful way
+- Google Looker Studio – Building dynamic and filter-based dashboards
+- Excel / CSV Handling – Data preparation and transformation
+- Analytical Thinking – Deriving insights from multiple data dimensions  
 
 ---
 
